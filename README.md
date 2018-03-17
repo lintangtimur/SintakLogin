@@ -3,7 +3,7 @@
 
 Tool yang mendapatkan default password untuk login unika, khususnya untuk wifi
 
-Tool ini hanya Trial selama 1 Hari & 1 eksekusi, jika ingin perpanjangan(extended) cantumkan Machine ID ke dalam Pull Request kalian
+Tool ini hanya Trial selama 1 Hari & 1 eksekusi, jika ingin perpanjangan(extended) cantumkan Machine ID ke dalam Issue kalian
 ## Usage
 1. Silahkan download dari sini [Download](https://github.com/lintangtimur/SintakLogin/releases)
 ## Error
